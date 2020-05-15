@@ -13,8 +13,8 @@ a better understanding of the problems you encountered during the developmemnt o
 | scr | Source code - create as many subdirectories as needed |
 
 ## Project Team
-- Joe Devlin  - *Company Affliation* - Mentor
-- Sudhanshu Joshi  - *University* - Mentee
+- Joe Devlin - *Company Affliation* - Mentor
+- Sudhanshu Joshi - Army Institute of Technology, Pune, India - Mentee
 
 ## Deliverables:
 - [ ] Project Plan

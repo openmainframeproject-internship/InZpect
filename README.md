@@ -17,7 +17,7 @@ a better understanding of the problems you encountered during the developmemnt o
 - Sudhanshu Joshi - Army Institute of Technology, Pune, India - Mentee
 
 ## Deliverables:
-- [ ] Project Plan
+- [X] **Project Plan**
 - [ ] 1st Stipend Released
 - [ ] Statement of Work
 - [ ] Architecure/High Level Design
